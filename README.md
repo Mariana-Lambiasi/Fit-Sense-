@@ -1,2 +1,2 @@
-#Fit-Sense
+## Fit-Sense
 Academia integrada com IA 
