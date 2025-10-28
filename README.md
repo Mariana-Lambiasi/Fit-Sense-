@@ -10,8 +10,10 @@ Academia integrada com IA
 - Treinos modernos. 
 - Chegue nos seus resultados mais rápido.
 
-  # Itegrantes do Projeto
+  # Integrantes do Projeto
   Mariana Lambiasi de Carvalho
+  
   Maria Eduarda Lana Faustino
+  
   João Vitor Pinazo 
 
